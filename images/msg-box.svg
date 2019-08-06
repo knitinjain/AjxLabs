@@ -1,0 +1,100 @@
+<svg id="Group_448" data-name="Group 448" xmlns="http://www.w3.org/2000/svg" width="67.073" height="57.22" viewBox="0 0 67.073 57.22">
+<defs>
+<style>
+	.wifi-circle.first {
+  -o-animation-delay: 800ms;
+  -moz-animation-delay: 800ms;
+  -webkit-animation-delay: 800ms;
+  animation-delay: 800ms;
+}
+
+.wifi-circle.second {
+
+  -o-animation-delay: 400ms;
+  -moz-animation-delay: 400ms;
+  -webkit-animation-delay: 400ms;
+  animation-delay: 400ms;
+}
+
+.wifi-circle.third {
+-o-animation-delay: 200ms;
+  -moz-animation-delay: 200ms;
+  -webkit-animation-delay: 200ms;
+  animation-delay: 200ms;
+}
+.wifi-circle.fourth {
+-o-animation-delay: 200ms;
+  -moz-animation-delay: 200ms;
+  -webkit-animation-delay: 200ms;
+  animation-delay: 200ms;
+}
+	  .wifi-circle {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  display: block;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  -o-animation: wifianimation 2s infinite;
+  -moz-animation: wifianimation 2s infinite;
+  -webkit-animation: wifianimation 2s infinite;
+  animation: wifianimation 2s infinite;
+   animation-delay: 2s;
+}
+@-o-keyframes wifianimation
+{
+  0% {
+    opacity: 0.4;
+  }
+  5% {
+    opactiy: 1;
+  }
+  6% {
+    opactiy: 0.1;
+  }
+  100% {
+    opactiy: 1;
+  }
+}
+
+@-moz-keyframes wifianimation
+{
+  0% {
+    opacity: 0.4;
+  }
+  5% {
+    opactiy: 1;
+  }
+  6% {
+    opactiy: 0.1;
+  }
+  100% {
+    opactiy: 1;
+  }
+}
+
+@-webkit-keyframes wifianimation
+{
+  0% {
+    opacity: 0.4;
+     stroke: blue;
+  }
+  5% {
+    opactiy: 1;
+  }
+  6% {
+    opactiy: 0.1;
+  }
+  100% {
+    opactiy: 1;
+  }
+}
+</style>
+</defs>
+  <path id="Path_21927" data-name="Path 21927" d="M300.591,107.258h53.058a7.027,7.027,0,0,1,7.008,7.008v49.428a.782.782,0,0,1-1.336.553l-11.941-11.94H300.591a7.027,7.027,0,0,1-7.008-7.008V114.266A7.027,7.027,0,0,1,300.591,107.258Z" transform="translate(-293.583 -107.258)" fill="#3b0ba7" fill-rule="evenodd"/>
+  <g id="Group_447" data-name="Group 447" transform="translate(14.044 18.664)">
+    <path id="Path_21928" data-name="Path 21928" d="M308.567,129.761a3.859,3.859,0,1,0-3.859-3.858A3.866,3.866,0,0,0,308.567,129.761Z" transform="translate(-304.708 -122.043)" fill="#fff" fill-rule="evenodd" class="wifi-circle third"/>
+    <path id="Path_21929" data-name="Path 21929" d="M320.951,129.761a3.859,3.859,0,1,0-3.859-3.858A3.866,3.866,0,0,0,320.951,129.761Z" transform="translate(-301.459 -122.043)" fill="#fff" fill-rule="evenodd" class="wifi-circle second"/>
+    <path id="Path_21930" data-name="Path 21930" d="M333.335,129.761a3.859,3.859,0,1,0-3.858-3.858A3.866,3.866,0,0,0,333.335,129.761Z" transform="translate(-298.209 -122.043)" fill="#fff" fill-rule="evenodd" class="wifi-circle first"/>
+  </g>
+</svg>
